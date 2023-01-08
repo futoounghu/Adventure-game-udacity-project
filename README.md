@@ -2,7 +2,7 @@
 a required project using Python in Udacity's intro to programming course
 
 The purpose of the project is to make a simpler version of an old-fashioned text-based adventure game using python.
-![image](https://user-images.githubusercontent.com/118289621/211217363-443567ff-1e7f-4c8f-94dd-2a5f71bf7c41.png
+
 
 # **The requirements of the project:**
 
